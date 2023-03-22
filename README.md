@@ -7,7 +7,7 @@
 - LinkedIn: https://www.linkedin.com/in/jafar-fahimi-54a30022b
 - portfolio link: https://jafarfahimi.github.io/
 
- <h3 align="left" dir="auto">
+  <h3 align="left" dir="auto">
       <a
         id="user-content-familiarused-languages-and-tools"
         class="anchor"
@@ -27,6 +27,7 @@
           ></path></svg></a
       >Familiar/Used Languages and Tools:
     </h3>
+
     <p align="left" dir="auto">
       <a href="https://www.w3.org/html/" rel="nofollow">
         <img
@@ -37,7 +38,7 @@
           style="max-width: 100%; margin-right: 1px; margin-bottom: 4px"
         />
       </a>
-
+ 
       <a href="https://www.w3.org/Style/CSS/" rel="nofollow">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -78,6 +79,7 @@
           style="max-width: 100%; margin-right: 2px"
         />
       </a>
+
       <a href="https://reactjs.org/" rel="nofollow">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -87,6 +89,7 @@
           style="max-width: 100%; margin-right: 2px"
         />
       </a>
+
       <a href="https://redux.js.org" rel="nofollow">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -96,6 +99,7 @@
           style="max-width: 100%; margin-right: 2px"
         />
       </a>
+
       <a href="https://nextjs.org/" rel="nofollow">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
