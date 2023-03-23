@@ -27,25 +27,25 @@
           ></path></svg></a
       >Familiar/Used Languages and Tools:
     </h3>
-
-    <p align="left" dir="auto">
+  
+     <p align="left" dir="auto">
       <a href="https://www.w3.org/html/" rel="nofollow">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
           alt="html5"
           width="40"
           height="40"
-          style="max-width: 100%; margin-right: 1px; margin-bottom: 4px"
+          style="max-width: 100%"
         />
       </a>
- 
+
       <a href="https://www.w3.org/Style/CSS/" rel="nofollow">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
           alt="CSS3"
           width="40"
           height="40"
-          style="max-width: 100%; margin-right: 1px; margin-bottom: 4px"
+          style="max-width: 100%"
         />
       </a>
 
@@ -55,7 +55,7 @@
           alt="getbootstrap"
           width="40"
           height="40"
-          style="max-width: 100%; margin-right: 2px"
+          style="max-width: 100%"
         />
       </a>
 
@@ -66,7 +66,7 @@
           width="40"
           height="40"
           data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-          style="max-width: 100%; margin-right: 2px"
+          style="max-width: 100%"
         />
       </a>
 
@@ -76,7 +76,7 @@
           alt="javascript"
           width="40"
           height="40"
-          style="max-width: 100%; margin-right: 2px"
+          style="max-width: 100%"
         />
       </a>
 
@@ -86,7 +86,7 @@
           alt="reactjs"
           width="40"
           height="40"
-          style="max-width: 100%; margin-right: 2px"
+          style="max-width: 100%"
         />
       </a>
 
@@ -96,7 +96,7 @@
           alt="redux"
           width="40"
           height="40"
-          style="max-width: 100%; margin-right: 2px"
+          style="max-width: 100%"
         />
       </a>
 
@@ -106,13 +106,7 @@
           alt="nextjs icon"
           width="38"
           height="38"
-          style="
-            max-width: 100%;
-            margin-right: 2px;
-            background-color: white;
-            border-radius: 50%;
-            padding: 1px;
-          "
+          style="max-width: 100%; background-color: white; border-radius: 50%; padding: 1px"
         />
       </a>
 
@@ -122,7 +116,7 @@
           alt="material-ui icon"
           width="40"
           height="40"
-          style="max-width: 100%; margin-right: 2px"
+          style="max-width: 100%"
         />
       </a>
 
@@ -132,7 +126,7 @@
           alt="adobe photoshop icon"
           width="40"
           height="40"
-          style="max-width: 100%; margin-right: 2px"
+          style="max-width: 100%"
         />
       </a>
 
@@ -142,7 +136,7 @@
           alt="firebase icon"
           width="40"
           height="40"
-          style="max-width: 100%; margin-right: 2px"
+          style="max-width: 100%"
         />
       </a>
 
@@ -152,7 +146,7 @@
           alt="mongodb icon"
           width="40"
           height="40"
-          style="max-width: 100%; margin-right: 2px"
+          style="max-width: 100%"
         />
       </a>
 
@@ -162,7 +156,7 @@
           alt="svetle icon"
           width="40"
           height="40"
-          style="max-width: 100%; margin-right: 2px"
+          style="max-width: 100%"
         />
       </a>
     </p>
