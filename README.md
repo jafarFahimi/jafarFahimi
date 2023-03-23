@@ -106,7 +106,7 @@
           alt="nextjs icon"
           width="38"
           height="38"
-          style="max-width: 100%; background-color: white; border-radius: 50%; padding: 1px"
+          style="max-width: 100%;"
         />
       </a>
 
