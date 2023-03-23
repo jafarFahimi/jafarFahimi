@@ -7,13 +7,6 @@
 - LinkedIn: https://www.linkedin.com/in/jafar-fahimi-54a30022b
 - portfolio link: https://jafarfahimi.github.io/
 
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" /> 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Readme</title>
-  </head>
-  <body style="background-color: black">
     <h3 align="left" dir="auto">
       <a
         id="user-content-familiarused-languages-and-tools"
@@ -160,5 +153,3 @@
         />
       </a>
     </p>
-  </body>
-</html>
